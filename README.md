@@ -6,7 +6,7 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Go Report Card](https://goreportcard.com/badge/github.com/yourusername/postgresql-mcp-server)](https://goreportcard.com/report/github.com/yourusername/postgresql-mcp-server)
 # Author: Swan Htet Aung Phyo 
-# Computer Science Student At AGH
+# Computer Science Student At AGH (Backend Developer)
 > A secure and efficient MCP server that lets AI assistants interact with PostgreSQL databases through a clean, standardized interface.
 
 Ever wanted to give your AI assistant the ability to query your database without worrying about security? This MCP server is exactly what you need. It provides a safe way for AI models to interact with PostgreSQL databases while keeping your data secure.
